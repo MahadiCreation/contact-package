@@ -1,0 +1,19 @@
+{
+    "name": "mahadicreation/contact",
+    "description": "This will sent email to admin and save contact query in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mahadicreation",
+            "email": "mahadicreation@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mahadicreation\\Contact\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
